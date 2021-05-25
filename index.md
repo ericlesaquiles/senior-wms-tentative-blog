@@ -1,6 +1,6 @@
-## Um mock-artigo de grupo de estudos
+## Um mock-post de grupo de estudos
 
-Para completar o fluxo, faça isso e aquilo outro. Para mais informações, siga [veja este site](https://google.com/) 
+(em um post comum, se teria algo como) "Para completar o fluxo, faça isso e aquilo outro. Para mais informações, siga [veja este site](https://google.com/), etc., etc.."
 
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
