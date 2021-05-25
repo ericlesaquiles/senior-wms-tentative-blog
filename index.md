@@ -7,6 +7,8 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Markdown
 
+Cada post vai ficar na pasta "_posts" (que não está inclusa ainda, porque este "blog tentativo" só tem uma página), em formato markdown comum. Caso desconheça o formato, seguem algumas orientações mais básicas:
+
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
@@ -34,6 +36,7 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 Esta página foi feita em [https://jekyllrb.com/](jekyll). Para mais detalhes, siga o link. (btw, yes, mixing English and Portuguese is a thing).
 
 Siga [este link](http://jekyllthemes.org/) para checar outros temas.
+
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ericlesaquiles/senior-wms-tentative-blog/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
